@@ -21,10 +21,15 @@ brand candy land
 z z z
 
 strings:  13
+  
   empty:  6
+ 
  with z:  4
+      
       z:  13
+    
     and:  5
+
 do you want more?(y/n)
 
 ->Результат роботи програми при запуску файла з папки
