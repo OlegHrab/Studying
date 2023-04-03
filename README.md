@@ -26,9 +26,9 @@ strings:  13
  
  with z:  4
       
-      z:  13
+   z:  13
     
-    and:  5
+   and:  5
 
 do you want more?(y/n)
 
