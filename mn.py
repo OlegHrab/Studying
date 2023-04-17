@@ -1,3 +1,4 @@
+#Олег Грабчак ТР-14 2023
 from mp import number_to_words
 
 def m_n():
