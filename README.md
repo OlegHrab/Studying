@@ -1,2 +1,1 @@
-Lab_2 check
-![image](https://user-images.githubusercontent.com/127214573/229353382-d15b8334-88ae-438e-aa20-f67f51d1bcd6.png)
+![image](https://user-images.githubusercontent.com/127214573/236918828-931c3074-ba94-48eb-996f-d26e50dae57b.png)
